@@ -1,0 +1,502 @@
+22:53:10 INFO      [app] Read test result spreadsheet, containing 454 test results consisting of 50 questions
+22:53:10 INFO      [app] Student 0001 scores 40 of 90 (44.44%) and gets a grade of 3.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0002 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0003 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0004 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0005 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0006 scores 39 of 90 (43.33%) and gets a grade of 3.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0007 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0008 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0009 scores 40 of 90 (44.44%) and gets a grade of 3.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0010 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0011 scores 54.8 of 90 (60.89%) and gets a grade of 4.68 and therefor fails :(
+22:53:10 INFO      [app] Student 0012 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0013 scores 39 of 90 (43.33%) and gets a grade of 3.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0014 scores 53.2 of 90 (59.11%) and gets a grade of 4.52 and therefor fails :(
+22:53:10 INFO      [app] Student 0015 scores 34 of 90 (37.78%) and gets a grade of 2.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0016 scores 35 of 90 (38.89%) and gets a grade of 2.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0017 scores 26 of 90 (28.89%) and gets a grade of 1.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0018 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0019 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0020 scores 28 of 90 (31.11%) and gets a grade of 2 and therefor fails :(
+22:53:10 INFO      [app] Student 0021 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0022 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0023 scores 64 of 90 (71.11%) and gets a grade of 5.6 and therefor passes!
+22:53:10 INFO      [app] Student 0024 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0025 scores 41.1 of 90 (45.67%) and gets a grade of 3.31 and therefor fails :(
+22:53:10 INFO      [app] Student 0026 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0027 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0028 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0029 scores 69 of 90 (76.67%) and gets a grade of 6.1 and therefor passes!
+22:53:10 INFO      [app] Student 0030 scores 68.2 of 90 (75.78%) and gets a grade of 6.02 and therefor passes!
+22:53:10 INFO      [app] Student 0031 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0032 scores 53.2 of 90 (59.11%) and gets a grade of 4.52 and therefor fails :(
+22:53:10 INFO      [app] Student 0033 scores 59.3 of 90 (65.89%) and gets a grade of 5.13 and therefor fails :(
+22:53:10 INFO      [app] Student 0034 scores 66 of 90 (73.33%) and gets a grade of 5.8 and therefor passes!
+22:53:10 INFO      [app] Student 0035 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0036 scores 42.2 of 90 (46.89%) and gets a grade of 3.42 and therefor fails :(
+22:53:10 INFO      [app] Student 0037 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0038 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0039 scores 74 of 90 (82.22%) and gets a grade of 6.6 and therefor passes!
+22:53:10 INFO      [app] Student 0040 scores 66.1 of 90 (73.44%) and gets a grade of 5.81 and therefor passes!
+22:53:10 INFO      [app] Student 0041 scores 50.1 of 90 (55.67%) and gets a grade of 4.21 and therefor fails :(
+22:53:10 INFO      [app] Student 0042 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0043 scores 37 of 90 (41.11%) and gets a grade of 2.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0044 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0045 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0046 scores 75 of 90 (83.33%) and gets a grade of 6.7 and therefor passes!
+22:53:10 INFO      [app] Student 0047 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0048 scores 73 of 90 (81.11%) and gets a grade of 6.5 and therefor passes!
+22:53:10 INFO      [app] Student 0049 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0050 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0051 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0052 scores 58.2 of 90 (64.67%) and gets a grade of 5.02 and therefor fails :(
+22:53:10 INFO      [app] Student 0053 scores 62.1 of 90 (69%) and gets a grade of 5.41 and therefor fails :(
+22:53:10 INFO      [app] Student 0054 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0055 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0056 scores 31.2 of 90 (34.67%) and gets a grade of 2.32 and therefor fails :(
+22:53:10 INFO      [app] Student 0057 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0058 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0059 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0060 scores 53.2 of 90 (59.11%) and gets a grade of 4.52 and therefor fails :(
+22:53:10 INFO      [app] Student 0061 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0062 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0063 scores 56.9 of 90 (63.22%) and gets a grade of 4.89 and therefor fails :(
+22:53:10 INFO      [app] Student 0064 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0065 scores 50.2 of 90 (55.78%) and gets a grade of 4.22 and therefor fails :(
+22:53:10 INFO      [app] Student 0066 scores 40 of 90 (44.44%) and gets a grade of 3.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0067 scores 68 of 90 (75.56%) and gets a grade of 6 and therefor passes!
+22:53:10 INFO      [app] Student 0068 scores 65.2 of 90 (72.44%) and gets a grade of 5.72 and therefor passes!
+22:53:10 INFO      [app] Student 0069 scores 40 of 90 (44.44%) and gets a grade of 3.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0070 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0071 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0072 scores 49.2 of 90 (54.67%) and gets a grade of 4.12 and therefor fails :(
+22:53:10 INFO      [app] Student 0073 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0074 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0075 scores 44.2 of 90 (49.11%) and gets a grade of 3.62 and therefor fails :(
+22:53:10 INFO      [app] Student 0076 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0077 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0078 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0079 scores 68 of 90 (75.56%) and gets a grade of 6 and therefor passes!
+22:53:10 INFO      [app] Student 0080 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0081 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0082 scores 50.2 of 90 (55.78%) and gets a grade of 4.22 and therefor fails :(
+22:53:10 INFO      [app] Student 0083 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0084 scores 64.4 of 90 (71.56%) and gets a grade of 5.64 and therefor passes!
+22:53:10 INFO      [app] Student 0085 scores 64 of 90 (71.11%) and gets a grade of 5.6 and therefor passes!
+22:53:10 INFO      [app] Student 0086 scores 34.2 of 90 (38%) and gets a grade of 2.62 and therefor fails :(
+22:53:10 INFO      [app] Student 0087 scores 27 of 90 (30%) and gets a grade of 1.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0088 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0089 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0090 scores 52.2 of 90 (58%) and gets a grade of 4.42 and therefor fails :(
+22:53:10 INFO      [app] Student 0091 scores 66 of 90 (73.33%) and gets a grade of 5.8 and therefor passes!
+22:53:10 INFO      [app] Student 0092 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0093 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0094 scores 42 of 90 (46.67%) and gets a grade of 3.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0095 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0096 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0097 scores 70.6 of 90 (78.44%) and gets a grade of 6.26 and therefor passes!
+22:53:10 INFO      [app] Student 0098 scores 42 of 90 (46.67%) and gets a grade of 3.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0099 scores 64.1 of 90 (71.22%) and gets a grade of 5.61 and therefor passes!
+22:53:10 INFO      [app] Student 0100 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0101 scores 68 of 90 (75.56%) and gets a grade of 6 and therefor passes!
+22:53:10 INFO      [app] Student 0102 scores 56.2 of 90 (62.44%) and gets a grade of 4.82 and therefor fails :(
+22:53:10 INFO      [app] Student 0103 scores 64 of 90 (71.11%) and gets a grade of 5.6 and therefor passes!
+22:53:10 INFO      [app] Student 0104 scores 77 of 90 (85.56%) and gets a grade of 6.9 and therefor passes!
+22:53:10 INFO      [app] Student 0105 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0106 scores 54.1 of 90 (60.11%) and gets a grade of 4.61 and therefor fails :(
+22:53:10 INFO      [app] Student 0107 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0108 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0109 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0110 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0111 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0112 scores 39 of 90 (43.33%) and gets a grade of 3.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0113 scores 45.2 of 90 (50.22%) and gets a grade of 3.72 and therefor fails :(
+22:53:10 INFO      [app] Student 0114 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0115 scores 23 of 90 (25.56%) and gets a grade of 1.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0116 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0117 scores 64.6 of 90 (71.78%) and gets a grade of 5.66 and therefor passes!
+22:53:10 INFO      [app] Student 0118 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0119 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0120 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0121 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0122 scores 71.1 of 90 (79%) and gets a grade of 6.31 and therefor passes!
+22:53:10 INFO      [app] Student 0123 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0124 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0125 scores 37 of 90 (41.11%) and gets a grade of 2.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0126 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0127 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0128 scores 47.2 of 90 (52.44%) and gets a grade of 3.92 and therefor fails :(
+22:53:10 INFO      [app] Student 0129 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0130 scores 18 of 90 (20%) and gets a grade of 1 and therefor fails :(
+22:53:10 INFO      [app] Student 0131 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0132 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0133 scores 30 of 90 (33.33%) and gets a grade of 2.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0134 scores 77 of 90 (85.56%) and gets a grade of 6.9 and therefor passes!
+22:53:10 INFO      [app] Student 0135 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0136 scores 37 of 90 (41.11%) and gets a grade of 2.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0137 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0138 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0139 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0140 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0141 scores 66.6 of 90 (74%) and gets a grade of 5.86 and therefor passes!
+22:53:10 INFO      [app] Student 0142 scores 44.2 of 90 (49.11%) and gets a grade of 3.62 and therefor fails :(
+22:53:10 INFO      [app] Student 0143 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0144 scores 28 of 90 (31.11%) and gets a grade of 2 and therefor fails :(
+22:53:10 INFO      [app] Student 0145 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0146 scores 41 of 90 (45.56%) and gets a grade of 3.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0147 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0148 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0149 scores 42 of 90 (46.67%) and gets a grade of 3.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0150 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0151 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0152 scores 47.1 of 90 (52.33%) and gets a grade of 3.91 and therefor fails :(
+22:53:10 INFO      [app] Student 0153 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0154 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0155 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0156 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0157 scores 58.1 of 90 (64.56%) and gets a grade of 5.01 and therefor fails :(
+22:53:10 INFO      [app] Student 0158 scores 28 of 90 (31.11%) and gets a grade of 2 and therefor fails :(
+22:53:10 INFO      [app] Student 0159 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0160 scores 54.9 of 90 (61%) and gets a grade of 4.69 and therefor fails :(
+22:53:10 INFO      [app] Student 0161 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0162 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0163 scores 34 of 90 (37.78%) and gets a grade of 2.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0164 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0165 scores 49.1 of 90 (54.56%) and gets a grade of 4.11 and therefor fails :(
+22:53:10 INFO      [app] Student 0166 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0167 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0168 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0169 scores 59.1 of 90 (65.67%) and gets a grade of 5.11 and therefor fails :(
+22:53:10 INFO      [app] Student 0170 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0171 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0172 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0173 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0174 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0175 scores 57.2 of 90 (63.56%) and gets a grade of 4.92 and therefor fails :(
+22:53:10 INFO      [app] Student 0176 scores 57.1 of 90 (63.44%) and gets a grade of 4.91 and therefor fails :(
+22:53:10 INFO      [app] Student 0177 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0178 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0179 scores 64 of 90 (71.11%) and gets a grade of 5.6 and therefor passes!
+22:53:10 INFO      [app] Student 0180 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0181 scores 44.9 of 90 (49.89%) and gets a grade of 3.69 and therefor fails :(
+22:53:10 INFO      [app] Student 0182 scores 41 of 90 (45.56%) and gets a grade of 3.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0183 scores 57.2 of 90 (63.56%) and gets a grade of 4.92 and therefor fails :(
+22:53:10 INFO      [app] Student 0184 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0185 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0186 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0187 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0188 scores 30 of 90 (33.33%) and gets a grade of 2.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0189 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0190 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0191 scores 39 of 90 (43.33%) and gets a grade of 3.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0192 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0193 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0194 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0195 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0196 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0197 scores 33 of 90 (36.67%) and gets a grade of 2.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0198 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0199 scores 41 of 90 (45.56%) and gets a grade of 3.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0200 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0201 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0202 scores 42.2 of 90 (46.89%) and gets a grade of 3.42 and therefor fails :(
+22:53:10 INFO      [app] Student 0203 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0204 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0205 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0206 scores 42 of 90 (46.67%) and gets a grade of 3.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0207 scores 63.2 of 90 (70.22%) and gets a grade of 5.52 and therefor passes!
+22:53:10 INFO      [app] Student 0208 scores 29 of 90 (32.22%) and gets a grade of 2.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0209 scores 39 of 90 (43.33%) and gets a grade of 3.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0210 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0211 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0212 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0213 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0214 scores 53.1 of 90 (59%) and gets a grade of 4.51 and therefor fails :(
+22:53:10 INFO      [app] Student 0215 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0216 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0217 scores 53.2 of 90 (59.11%) and gets a grade of 4.52 and therefor fails :(
+22:53:10 INFO      [app] Student 0218 scores 42 of 90 (46.67%) and gets a grade of 3.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0219 scores 55.2 of 90 (61.33%) and gets a grade of 4.72 and therefor fails :(
+22:53:10 INFO      [app] Student 0220 scores 48.5 of 90 (53.89%) and gets a grade of 4.05 and therefor fails :(
+22:53:10 INFO      [app] Student 0221 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0222 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0223 scores 52.1 of 90 (57.89%) and gets a grade of 4.41 and therefor fails :(
+22:53:10 INFO      [app] Student 0224 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0225 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0226 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0227 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0228 scores 71 of 90 (78.89%) and gets a grade of 6.3 and therefor passes!
+22:53:10 INFO      [app] Student 0229 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0230 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0231 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0232 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0233 scores 36 of 90 (40%) and gets a grade of 2.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0234 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0235 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0236 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0237 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0238 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0239 scores 55.1 of 90 (61.22%) and gets a grade of 4.71 and therefor fails :(
+22:53:10 INFO      [app] Student 0240 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0241 scores 45.1 of 90 (50.11%) and gets a grade of 3.71 and therefor fails :(
+22:53:10 INFO      [app] Student 0242 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0243 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0244 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0245 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0246 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0247 scores 37 of 90 (41.11%) and gets a grade of 2.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0248 scores 35 of 90 (38.89%) and gets a grade of 2.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0249 scores 41.2 of 90 (45.78%) and gets a grade of 3.32 and therefor fails :(
+22:53:10 INFO      [app] Student 0250 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0251 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0252 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0253 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0254 scores 52.5 of 90 (58.33%) and gets a grade of 4.45 and therefor fails :(
+22:53:10 INFO      [app] Student 0255 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0256 scores 69 of 90 (76.67%) and gets a grade of 6.1 and therefor passes!
+22:53:10 INFO      [app] Student 0257 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0258 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0259 scores 79 of 90 (87.78%) and gets a grade of 7.1 and therefor passes!
+22:53:10 INFO      [app] Student 0260 scores 73 of 90 (81.11%) and gets a grade of 6.5 and therefor passes!
+22:53:10 INFO      [app] Student 0261 scores 64 of 90 (71.11%) and gets a grade of 5.6 and therefor passes!
+22:53:10 INFO      [app] Student 0262 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0263 scores 40 of 90 (44.44%) and gets a grade of 3.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0264 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0265 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0266 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0267 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0268 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0269 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0270 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0271 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0272 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0273 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0274 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0275 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0276 scores 48.9 of 90 (54.33%) and gets a grade of 4.09 and therefor fails :(
+22:53:10 INFO      [app] Student 0277 scores 75 of 90 (83.33%) and gets a grade of 6.7 and therefor passes!
+22:53:10 INFO      [app] Student 0278 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0279 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0280 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0281 scores 44.2 of 90 (49.11%) and gets a grade of 3.62 and therefor fails :(
+22:53:10 INFO      [app] Student 0282 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0283 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0284 scores 67 of 90 (74.44%) and gets a grade of 5.9 and therefor passes!
+22:53:10 INFO      [app] Student 0285 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0286 scores 31.2 of 90 (34.67%) and gets a grade of 2.32 and therefor fails :(
+22:53:10 INFO      [app] Student 0287 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0288 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0289 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0290 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0291 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0292 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0293 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0294 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0295 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0296 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0297 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0298 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0299 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0300 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0301 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0302 scores 40 of 90 (44.44%) and gets a grade of 3.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0303 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0304 scores 57.1 of 90 (63.44%) and gets a grade of 4.91 and therefor fails :(
+22:53:10 INFO      [app] Student 0305 scores 67 of 90 (74.44%) and gets a grade of 5.9 and therefor passes!
+22:53:10 INFO      [app] Student 0306 scores 46.2 of 90 (51.33%) and gets a grade of 3.82 and therefor fails :(
+22:53:10 INFO      [app] Student 0307 scores 43.6 of 90 (48.44%) and gets a grade of 3.56 and therefor fails :(
+22:53:10 INFO      [app] Student 0308 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0309 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0310 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0311 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0312 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0313 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0314 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0315 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0316 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0317 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0318 scores 28 of 90 (31.11%) and gets a grade of 2 and therefor fails :(
+22:53:10 INFO      [app] Student 0319 scores 60.2 of 90 (66.89%) and gets a grade of 5.22 and therefor fails :(
+22:53:10 INFO      [app] Student 0320 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0321 scores 54.2 of 90 (60.22%) and gets a grade of 4.62 and therefor fails :(
+22:53:10 INFO      [app] Student 0322 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0323 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0324 scores 69 of 90 (76.67%) and gets a grade of 6.1 and therefor passes!
+22:53:10 INFO      [app] Student 0325 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0326 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0327 scores 50.9 of 90 (56.56%) and gets a grade of 4.29 and therefor fails :(
+22:53:10 INFO      [app] Student 0328 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0329 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0330 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0331 scores 41 of 90 (45.56%) and gets a grade of 3.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0332 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0333 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0334 scores 66.2 of 90 (73.56%) and gets a grade of 5.82 and therefor passes!
+22:53:10 INFO      [app] Student 0335 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0336 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0337 scores 38 of 90 (42.22%) and gets a grade of 3 and therefor fails :(
+22:53:10 INFO      [app] Student 0338 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0339 scores 51.6 of 90 (57.33%) and gets a grade of 4.36 and therefor fails :(
+22:53:10 INFO      [app] Student 0340 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0341 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0342 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0343 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0344 scores 36 of 90 (40%) and gets a grade of 2.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0345 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0346 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0347 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0348 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0349 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0350 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0351 scores 29 of 90 (32.22%) and gets a grade of 2.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0352 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0353 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0354 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0355 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0356 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0357 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0358 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0359 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0360 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0361 scores 67 of 90 (74.44%) and gets a grade of 5.9 and therefor passes!
+22:53:10 INFO      [app] Student 0362 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0363 scores 58.2 of 90 (64.67%) and gets a grade of 5.02 and therefor fails :(
+22:53:10 INFO      [app] Student 0364 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0365 scores 32 of 90 (35.56%) and gets a grade of 2.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0366 scores 50.2 of 90 (55.78%) and gets a grade of 4.22 and therefor fails :(
+22:53:10 INFO      [app] Student 0367 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0368 scores 56.2 of 90 (62.44%) and gets a grade of 4.82 and therefor fails :(
+22:53:10 INFO      [app] Student 0369 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0370 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0371 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0372 scores 51 of 90 (56.67%) and gets a grade of 4.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0373 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0374 scores 60.1 of 90 (66.78%) and gets a grade of 5.21 and therefor fails :(
+22:53:10 INFO      [app] Student 0375 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0376 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0377 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0378 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0379 scores 28 of 90 (31.11%) and gets a grade of 2 and therefor fails :(
+22:53:10 INFO      [app] Student 0380 scores 36 of 90 (40%) and gets a grade of 2.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0381 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0382 scores 71 of 90 (78.89%) and gets a grade of 6.3 and therefor passes!
+22:53:10 INFO      [app] Student 0383 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0384 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0385 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0386 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0387 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0388 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0389 scores 61 of 90 (67.78%) and gets a grade of 5.3 and therefor fails :(
+22:53:10 INFO      [app] Student 0390 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0391 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0392 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0393 scores 60 of 90 (66.67%) and gets a grade of 5.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0394 scores 40 of 90 (44.44%) and gets a grade of 3.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0395 scores 38 of 90 (42.22%) and gets a grade of 3 and therefor fails :(
+22:53:10 INFO      [app] Student 0396 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0397 scores 61.2 of 90 (68%) and gets a grade of 5.32 and therefor fails :(
+22:53:10 INFO      [app] Student 0398 scores 64 of 90 (71.11%) and gets a grade of 5.6 and therefor passes!
+22:53:10 INFO      [app] Student 0399 scores 50 of 90 (55.56%) and gets a grade of 4.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0400 scores 73.2 of 90 (81.33%) and gets a grade of 6.52 and therefor passes!
+22:53:10 INFO      [app] Student 0401 scores 54.1 of 90 (60.11%) and gets a grade of 4.61 and therefor fails :(
+22:53:10 INFO      [app] Student 0402 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0403 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0404 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0405 scores 71 of 90 (78.89%) and gets a grade of 6.3 and therefor passes!
+22:53:10 INFO      [app] Student 0406 scores 28 of 90 (31.11%) and gets a grade of 2 and therefor fails :(
+22:53:10 INFO      [app] Student 0407 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0408 scores 65 of 90 (72.22%) and gets a grade of 5.7 and therefor passes!
+22:53:10 INFO      [app] Student 0409 scores 47 of 90 (52.22%) and gets a grade of 3.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0410 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0411 scores 62 of 90 (68.89%) and gets a grade of 5.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0412 scores 48 of 90 (53.33%) and gets a grade of 4 and therefor fails :(
+22:53:10 INFO      [app] Student 0413 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0414 scores 60.6 of 90 (67.33%) and gets a grade of 5.26 and therefor fails :(
+22:53:10 INFO      [app] Student 0415 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0416 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0417 scores 63 of 90 (70%) and gets a grade of 5.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0418 scores 37 of 90 (41.11%) and gets a grade of 2.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0419 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0420 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0421 scores 45 of 90 (50%) and gets a grade of 3.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0422 scores 64 of 90 (71.11%) and gets a grade of 5.6 and therefor passes!
+22:53:10 INFO      [app] Student 0423 scores 42 of 90 (46.67%) and gets a grade of 3.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0424 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0425 scores 56.6 of 90 (62.89%) and gets a grade of 4.86 and therefor fails :(
+22:53:10 INFO      [app] Student 0426 scores 55 of 90 (61.11%) and gets a grade of 4.7 and therefor fails :(
+22:53:10 INFO      [app] Student 0427 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0428 scores 40 of 90 (44.44%) and gets a grade of 3.2 and therefor fails :(
+22:53:10 INFO      [app] Student 0429 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0430 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0431 scores 54 of 90 (60%) and gets a grade of 4.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0432 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0433 scores 57.6 of 90 (64%) and gets a grade of 4.96 and therefor fails :(
+22:53:10 INFO      [app] Student 0434 scores 52 of 90 (57.78%) and gets a grade of 4.4 and therefor fails :(
+22:53:10 INFO      [app] Student 0435 scores 49.1 of 90 (54.56%) and gets a grade of 4.11 and therefor fails :(
+22:53:10 INFO      [app] Student 0436 scores 43 of 90 (47.78%) and gets a grade of 3.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0437 scores 46.2 of 90 (51.33%) and gets a grade of 3.82 and therefor fails :(
+22:53:10 INFO      [app] Student 0438 scores 44 of 90 (48.89%) and gets a grade of 3.6 and therefor fails :(
+22:53:10 INFO      [app] Student 0439 scores 59 of 90 (65.56%) and gets a grade of 5.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0440 scores 54.1 of 90 (60.11%) and gets a grade of 4.61 and therefor fails :(
+22:53:10 INFO      [app] Student 0441 scores 64 of 90 (71.11%) and gets a grade of 5.6 and therefor passes!
+22:53:10 INFO      [app] Student 0442 scores 49.2 of 90 (54.67%) and gets a grade of 4.12 and therefor fails :(
+22:53:10 INFO      [app] Student 0443 scores 58 of 90 (64.44%) and gets a grade of 5 and therefor fails :(
+22:53:10 INFO      [app] Student 0444 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0445 scores 56 of 90 (62.22%) and gets a grade of 4.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0446 scores 46 of 90 (51.11%) and gets a grade of 3.8 and therefor fails :(
+22:53:10 INFO      [app] Student 0447 scores 49 of 90 (54.44%) and gets a grade of 4.1 and therefor fails :(
+22:53:10 INFO      [app] Student 0448 scores 53 of 90 (58.89%) and gets a grade of 4.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0449 scores 33 of 90 (36.67%) and gets a grade of 2.5 and therefor fails :(
+22:53:10 INFO      [app] Student 0450 scores 67 of 90 (74.44%) and gets a grade of 5.9 and therefor passes!
+22:53:10 INFO      [app] Student 0451 scores 57 of 90 (63.33%) and gets a grade of 4.9 and therefor fails :(
+22:53:10 INFO      [app] Student 0452 scores 69 of 90 (76.67%) and gets a grade of 6.1 and therefor passes!
+22:53:10 INFO      [app] Score Question 1 has a pearson coefficient of 0.33 and an average score of 0.63 (out of 1)
+22:53:10 INFO      [app] Score Question 2 has a pearson coefficient of 0.17 and an average score of 0.63 (out of 1)
+22:53:10 INFO      [app] Score Question 3 has a pearson coefficient of 0.19 and an average score of 0.8 (out of 1)
+22:53:10 INFO      [app] Score Question 4 has a pearson coefficient of 0.08 and an average score of 0.85 (out of 1)
+22:53:10 INFO      [app] Score Question 5 has a pearson coefficient of 0.24 and an average score of 0.8 (out of 1)
+22:53:10 INFO      [app] Score Question 6 has a pearson coefficient of 0.28 and an average score of 0.88 (out of 1)
+22:53:10 INFO      [app] Score Question 7 has a pearson coefficient of 0.17 and an average score of 0.88 (out of 1)
+22:53:10 INFO      [app] Score Question 8 has a pearson coefficient of 0 and an average score of 0.17 (out of 1)
+22:53:10 INFO      [app] Score Question 9 has a pearson coefficient of 0.03 and an average score of 0.17 (out of 1)
+22:53:10 INFO      [app] Score Question 10 has a pearson coefficient of 0.09 and an average score of 0.86 (out of 1)
+22:53:10 INFO      [app] Score Question 11 has a pearson coefficient of 0.2 and an average score of 0.71 (out of 1)
+22:53:10 INFO      [app] Score Question 12 has a pearson coefficient of 0.34 and an average score of 0.86 (out of 1)
+22:53:10 INFO      [app] Score Question 13 has a pearson coefficient of 0.25 and an average score of 0.74 (out of 1)
+22:53:10 INFO      [app] Score Question 14 has a pearson coefficient of 0.16 and an average score of 0.86 (out of 1)
+22:53:10 INFO      [app] Score Question 15 has a pearson coefficient of 0.16 and an average score of 0.82 (out of 1)
+22:53:10 INFO      [app] Score Question 16 has a pearson coefficient of 0.13 and an average score of 0.44 (out of 1)
+22:53:10 INFO      [app] Score Question 17 has a pearson coefficient of 0.15 and an average score of 0.59 (out of 1)
+22:53:10 INFO      [app] Score Question 18 has a pearson coefficient of 0.12 and an average score of 0.29 (out of 1)
+22:53:10 INFO      [app] Score Question 19 has a pearson coefficient of -0.01 and an average score of 0.34 (out of 1)
+22:53:10 INFO      [app] Score Question 20 has a pearson coefficient of 0.25 and an average score of 0.6 (out of 1)
+22:53:10 INFO      [app] Score Question 21 has a pearson coefficient of 0.11 and an average score of 0.87 (out of 1)
+22:53:10 INFO      [app] Score Question 22 has a pearson coefficient of 0.13 and an average score of 0.88 (out of 1)
+22:53:10 INFO      [app] Score Question 23 has a pearson coefficient of 0.27 and an average score of 0.95 (out of 1)
+22:53:10 INFO      [app] Score Question 24 has a pearson coefficient of 0 and an average score of 1 (out of 1)
+22:53:10 INFO      [app] Score Question 25 has a pearson coefficient of 0.2 and an average score of 0.34 (out of 1)
+22:53:10 INFO      [app] Score Question 26 has a pearson coefficient of 0.19 and an average score of 0.68 (out of 1)
+22:53:10 INFO      [app] Score Question 27 has a pearson coefficient of 0.12 and an average score of 0.23 (out of 1)
+22:53:10 INFO      [app] Score Question 28 has a pearson coefficient of 0.13 and an average score of 0.46 (out of 1)
+22:53:10 INFO      [app] Score Question 29 has a pearson coefficient of 0.13 and an average score of 0.74 (out of 1)
+22:53:10 INFO      [app] Score Question 30 has a pearson coefficient of 0.06 and an average score of 0.45 (out of 1)
+22:53:10 INFO      [app] Score Question 31 has a pearson coefficient of 0.45 and an average score of 1.89 (out of 3)
+22:53:10 INFO      [app] Score Question 32 has a pearson coefficient of 0.23 and an average score of 1.88 (out of 2)
+22:53:10 INFO      [app] Score Question 33 has a pearson coefficient of 0.34 and an average score of 1 (out of 2)
+22:53:10 INFO      [app] Score Question 34 has a pearson coefficient of 0.35 and an average score of 1.3 (out of 3)
+22:53:10 INFO      [app] Score Question 35 has a pearson coefficient of 0.42 and an average score of 4.45 (out of 5)
+22:53:10 INFO      [app] Score Question 36 has a pearson coefficient of 0.33 and an average score of 2.7 (out of 5)
+22:53:10 INFO      [app] Score Question 37 has a pearson coefficient of 0.3 and an average score of 1.26 (out of 2)
+22:53:10 INFO      [app] Score Question 38 has a pearson coefficient of 0.16 and an average score of 1.21 (out of 2)
+22:53:10 INFO      [app] Score Question 39 has a pearson coefficient of 0.34 and an average score of 0.96 (out of 3)
+22:53:10 INFO      [app] Score Question 40 has a pearson coefficient of 0.41 and an average score of 1.75 (out of 3)
+22:53:10 INFO      [app] Score Question 41 has a pearson coefficient of 0.53 and an average score of 1.75 (out of 5)
+22:53:10 INFO      [app] Score Question 42 has a pearson coefficient of 0.44 and an average score of 3.56 (out of 5)
+22:53:10 INFO      [app] Score Question 43 has a pearson coefficient of 0.46 and an average score of 1.01 (out of 2)
+22:53:10 INFO      [app] Score Question 44 has a pearson coefficient of 0.46 and an average score of 0.84 (out of 3)
+22:53:10 INFO      [app] Score Question 45 has a pearson coefficient of 0.4 and an average score of 2.13 (out of 3)
+22:53:10 INFO      [app] Score Question 46 has a pearson coefficient of 0.29 and an average score of 1.45 (out of 2)
+22:53:10 INFO      [app] Score Question 47 has a pearson coefficient of 0.36 and an average score of 1.41 (out of 2)
+22:53:10 INFO      [app] Score Question 48 has a pearson coefficient of 0.53 and an average score of 1.7 (out of 5)
+22:53:10 INFO      [app] Score Question 49 has a pearson coefficient of 0.3 and an average score of 0.41 (out of 3)

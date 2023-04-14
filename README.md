@@ -44,3 +44,7 @@ Used for importing data from Excel sheet
 - As an alternative to web based interface, I might have opted to update the loaded excel sheet by adding a worksheet called 'results' or something.
 - Also, i've not taken the time to do any linting, that would probably smooth things out some more
 - Unit tests would have been nice :) Where is the time...
+
+
+## Result bin/run.sh
+In case you're running into trouble getting this to run, in ```src/sample/result-output.txt``` you can see what the result would look like with the included sample data.
